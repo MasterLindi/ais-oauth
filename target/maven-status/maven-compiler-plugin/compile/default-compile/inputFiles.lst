@@ -1,0 +1,10 @@
+/Users/cli/Documents/DEV/Privat/OAuth/client-demo/src/main/java/org/apache/oltu/oauth2/client/demo/controller/TokenController.java
+/Users/cli/Documents/DEV/Privat/OAuth/client-demo/src/main/java/org/apache/oltu/oauth2/client/demo/controller/RegistrationController.java
+/Users/cli/Documents/DEV/Privat/OAuth/client-demo/src/main/java/org/apache/oltu/oauth2/client/demo/model/OAuthParams.java
+/Users/cli/Documents/DEV/Privat/OAuth/client-demo/src/main/java/org/apache/oltu/oauth2/client/demo/controller/AuthzController.java
+/Users/cli/Documents/DEV/Privat/OAuth/client-demo/src/main/java/org/apache/oltu/oauth2/client/demo/controller/MainController.java
+/Users/cli/Documents/DEV/Privat/OAuth/client-demo/src/main/java/org/apache/oltu/oauth2/client/demo/exception/ApplicationException.java
+/Users/cli/Documents/DEV/Privat/OAuth/client-demo/src/main/java/org/apache/oltu/oauth2/client/demo/controller/ResourceController.java
+/Users/cli/Documents/DEV/Privat/OAuth/client-demo/src/main/java/org/apache/oltu/oauth2/client/demo/model/OAuthRegParams.java
+/Users/cli/Documents/DEV/Privat/OAuth/client-demo/src/main/java/org/apache/oltu/oauth2/client/demo/controller/RedirectController.java
+/Users/cli/Documents/DEV/Privat/OAuth/client-demo/src/main/java/org/apache/oltu/oauth2/client/demo/Utils.java

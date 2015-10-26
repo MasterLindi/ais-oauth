@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.oltu.openidconnect:org.apache.oltu.openidconnect.client:0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/oltu/openidconnect/org.apache.oltu.openidconnect.client/0.1-SNAPSHOT/org.apache.oltu.openidconnect.client-0.1-20140307.020041-77.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/oltu/openidconnect/org.apache.oltu.openidconnect.client/0.1-SNAPSHOT/org.apache.oltu.openidconnect.client-0.1-20140307.020041-77-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/oltu/openidconnect/org.apache.oltu.openidconnect.client/0.1-SNAPSHOT/org.apache.oltu.openidconnect.client-0.1-20140307.020041-77-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
